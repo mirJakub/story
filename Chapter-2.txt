@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chapter-2.
+=======
+It's a first line in this file.
+>>>>>>> DCI-class
